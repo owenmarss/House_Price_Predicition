@@ -1,4 +1,4 @@
-# Predict-Price-of-House
-with linier regression
+# House Price Prediction
+Using linier regression
 
-Open it with Google Collab then import csv file
+Open it with Google Collab then import the data set
